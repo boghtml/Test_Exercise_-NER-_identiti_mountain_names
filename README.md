@@ -3,7 +3,7 @@
 
 ---
 ### NER-Training-Spacy-3.0
-![image](https://github.com/boghtml/Test_Exercise_-NER-_identiti_mountain_names/assets/119760440/cf0bc272-52dc-4910-a619-ea4b63442f9c)
+![image](https://github.com/boghtml/Test_Exercise_-NER-_identiti_mountain_names/assets/119760440/5ef213c6-8650-4f56-9572-9f774fffb420)
 
 ---
 
